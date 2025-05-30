@@ -1,0 +1,13 @@
+# Java
+/backend/target/
+/backend/.idea/
+/backend/.classpath
+/backend/.project
+
+# Node
+/frontend/node_modules/
+/frontend/.env
+/frontend/build/
+
+# OS
+.DS_Store
