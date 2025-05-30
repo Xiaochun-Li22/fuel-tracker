@@ -103,5 +103,5 @@ MIT License. Free to use and modify.
 
 ## 🙋‍♀️ Author
 
-**Xiaochun Li (April Li)**  
+**Xiaochun Li **  
 - GitHub: [@Xiaochun-Li22](https://github.com/Xiaochun-Li22)
