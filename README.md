@@ -82,7 +82,6 @@ This project is designed to be deployed as:
 - A **static frontend site** (e.g. via [Render Static Site](https://render.com/docs/static-sites))
 - A **Spring Boot web service** (e.g. via [Render Web Service](https://render.com/docs/deploy-java))
 
-> You can specify `frontend/` as the build root on Render and use `npm run build` → `build` as output directory.
 
 ---
 
