@@ -1,10 +1,10 @@
-# 🛢 Fuel Transaction Tracker
+#  Fuel Transaction Tracker
 
 A full-stack web application for managing and visualizing fuel transaction records. This project is developed with **Spring Boot (Java)** for the backend and **React.js** for the frontend. It is inspired by a real-world operational system used in UN peacekeeping missions to process and analyze fuel usage data.
 
 ---
 
-## 🔧 Project Structure
+##  Project Structure
 
 ```
 fuel-project/
@@ -14,18 +14,18 @@ fuel-project/
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🔐 Backend REST API with Spring Boot
-- 📄 PostgreSQL database integration
-- 📥 Add, view, search, and delete fuel transaction records
-- 📊 Responsive frontend UI built with React and Bootstrap
-- 🔍 Live search by vehicle ID or location
-- ☁️ Ready for deployment on Render or other platforms
+-  Backend REST API with Spring Boot
+-  PostgreSQL database integration
+-  Add, view, search, and delete fuel transaction records
+-  Responsive frontend UI built with React and Bootstrap
+-  Live search by vehicle ID or location
+-  Ready for deployment on Render or other platforms
 
 ---
 
-## 📦 Tech Stack
+##  Tech Stack
 
 | Layer      | Technology      |
 |------------|-----------------|
@@ -37,9 +37,9 @@ fuel-project/
 
 ---
 
-## 🖥️ Local Setup Instructions
+##  Local Setup Instructions
 
-### 🔹 Prerequisites
+###  Prerequisites
 
 - Java 17+
 - Node.js + npm
@@ -47,7 +47,7 @@ fuel-project/
 
 ---
 
-### 🔹 Backend Setup (Spring Boot)
+###  Backend Setup (Spring Boot)
 
 ```bash
 cd backend
@@ -63,7 +63,7 @@ cd backend
 
 ---
 
-### 🔹 Frontend Setup (React)
+###  Frontend Setup (React)
 
 ```bash
 cd frontend
@@ -75,7 +75,7 @@ This runs the frontend on: [http://localhost:3000](http://localhost:3000)
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 This project is designed to be deployed as:
 
@@ -87,20 +87,20 @@ This project is designed to be deployed as:
 
 ## ✨ Future Improvements
 
-- 🔒 Add JWT-based authentication
-- 📈 Visualize data with charts (Chart.js or Recharts)
-- 📁 Export data as CSV
-- 🔎 Advanced filters and pagination
+-  Add JWT-based authentication
+-  Visualize data with charts (Chart.js or Recharts)
+-  Export data as CSV
+-  Advanced filters and pagination
 
 ---
 
-## 📄 License
+##  License
 
 MIT License. Free to use and modify.
 
 ---
 
-## 🙋‍♀️ Author
+##  Author
 
 **Xiaochun Li **  
 - GitHub: [@Xiaochun-Li22](https://github.com/Xiaochun-Li22)
